@@ -1,2 +1,29 @@
 # pythonEngine
-AWS-S3 is a Ruby implementation of Amazon's S3 REST API
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
+    "Adds webhook support for event notifications"
+
+## Installation
+
+```bash
+git clone https://github.com/user/pythonEngine.git
+cd pythonEngine
+pip install -r requirements.txt
+```
+
+## Usage
+
+```python
+from pythonEngine import main
+main.run()
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+## License
+
+[MIT](LICENSE)
